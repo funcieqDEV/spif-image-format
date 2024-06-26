@@ -2,7 +2,7 @@
 
 <p>this is a project made for fun, it has no everyday use (yet :0 because it will change in the next project)</p>
 <p>user manual:</p>
-<b>pngtospif.py</b>
+<h4>pngtospif.py</h4>
 
 * type in the terminal: `pip install pillow`
 * run in the terminal `python pngtospif.py <png_file_path> <spif_output_path>`
