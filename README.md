@@ -4,4 +4,5 @@
 <p>user manual:</p>
 <b>pngtospif.py</b>
 
-* type in the terminal: `pip install pilow`
+* type in the terminal: `pip install pillow`
+* run in the terminal `python pngtospif.py <png_file_path> <spif_output_path>`
