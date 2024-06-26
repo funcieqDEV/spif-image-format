@@ -4,7 +4,8 @@
 <p>user manual:</p>
 <h3>pngtospif.py</h3>
 
-* type in the terminal: ```bash
+* type in the terminal:
+   ```
    pip install pillow
   ```
 * run in the terminal ```bash
