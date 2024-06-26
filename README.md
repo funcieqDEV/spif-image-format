@@ -13,8 +13,4 @@
   python pngtospif.py <png_file_path> <spif_output_path>
   ```
 <h3>main.py</h3>
-* type in the termianl:
-   ```
-   pip install pilow
-   ```
-   
+* type in the terminal:
