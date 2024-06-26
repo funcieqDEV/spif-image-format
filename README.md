@@ -16,12 +16,14 @@
 
 
  <h3>main.py</h3>
- * type in the terminal
-  ```
-  pip install pillow
-  ```
 
+* type in the termianl:
+  ```
+  pip install pillow pygame
+  ```
+ 
  * run in the terminal
    ```
    python main.py <spif_image_path>
    ```
+   
