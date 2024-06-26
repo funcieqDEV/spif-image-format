@@ -4,7 +4,5 @@
 <p>user manual:</p>
 <h3>pngtospif.py</h3>
 
-* type in the terminal: `pip install pillow`
-* run in the terminal `python pngtospif.py <png_file_path> <spif_output_path>`
-  ```Console.WriteLine('cos');
-  ```
+* type in the terminal: ```pip install pillow```
+* run in the terminal ```python pngtospif.py <png_file_path> <spif_output_path>```
