@@ -13,5 +13,15 @@
   python pngtospif.py <png_file_path> <spif_output_path>
   ```
 
-     <h3>main.py</h3>
-      * type in the terminal:
+
+
+ <h3>main.py</h3>
+ * type in the terminal
+  ```
+  pip install pillow
+  ```
+
+ * run in the terminal
+   ```
+   python main.py <spif_image_path>
+   ```
